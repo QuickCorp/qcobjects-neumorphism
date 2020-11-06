@@ -2,7 +2,7 @@
 
 QCObjects Neumorphism App template
 
-[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=qcobjects-neumorphism)
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/QuickCorp/qcobjects-neumorphism)
 
 ## Usage
 
