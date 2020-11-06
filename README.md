@@ -1,4 +1,4 @@
-# QCObjects Video Streaming
+# QCObjects Neumorphism
 
 QCObjects Neumorphism App template
 
