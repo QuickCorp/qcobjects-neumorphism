@@ -20,7 +20,8 @@ In your package.json file add the following dependencies
 ```json
   "devDependencies": {
     "eslint": "^6.8.0",
-    "jasmine": "^3.5.0"
+    "jasmine": "^3.5.0",
+    "qcobjects": "latest"
   }
 ```
 
