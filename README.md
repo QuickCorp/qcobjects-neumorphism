@@ -2,6 +2,8 @@
 
 QCObjects Neumorphism App template
 
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=qcobjects-neumorphism)
+
 ## Usage
 
 #### Quick Start
@@ -25,7 +27,7 @@ In your package.json file add the following dependencies
   }
 ```
 
-Also add this scripts in package.json 
+Also add this scripts in package.json
 
 ```json
 
