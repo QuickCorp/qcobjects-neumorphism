@@ -99,7 +99,7 @@ Package("org.quickcorp.custom.controllers",[
         //TODO: Implement
       },
         done: function (){
-            this.loadInstallerButton();
+//            this.loadInstallerButton();
         }
     }),
   Class("Controller1",Controller,{
